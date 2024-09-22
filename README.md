@@ -1,0 +1,1 @@
+Herein lay the contents of the CS-305-16274-M01 Software Security 2024 C-5 class at SNHU. It is a work-in-progress class that will have a reflection on the class written here by the end of the class in 5 weeks.
