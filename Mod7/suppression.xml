@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suppressions xmlns="https://jeremylong.github.io/DependencyCheck/dependency-suppression.1.3.xsd">
+    <suppress until="2025-01-01Z">
+        <notes><![CDATA[
+      file name: spring-webmvc-6.0.13.jar
+      ]]></notes>
+        <packageUrl regex="true">^pkg:maven/org\.springframework/spring-webmvc@.*$</packageUrl>
+        <vulnerabilityName>CVE-2024-38816</vulnerabilityName>
+    </suppress>
+</suppressions>
